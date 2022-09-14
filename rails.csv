@@ -1,0 +1,385 @@
+class index,filepaths,labels,data set
+0,train/Defective/131004959_171473721383413_8222187747086021011_n.jpg,Defective,train
+0,train/Defective/131051004_382613492830631_1306891331783850055_n.jpg,Defective,train
+0,train/Defective/131065180_999185033824671_7735147288489715620_n.jpg,Defective,train
+0,train/Defective/131084537_190751489449739_279862595635733772_n.jpg,Defective,train
+0,train/Defective/131092897_149705809860659_8798464983059531038_n.jpg,Defective,train
+0,train/Defective/131098429_134147575143001_1246437012995704959_n.jpg,Defective,train
+0,train/Defective/131129946_140815574232570_8925999503657494497_n.jpg,Defective,train
+0,train/Defective/131275810_2686956714949012_5021348409242545922_n.jpg,Defective,train
+0,train/Defective/131348023_405054987354853_8834671660058234194_n.jpg,Defective,train
+0,train/Defective/131437543_500273490949549_5045378072687137331_n.jpg,Defective,train
+0,train/Defective/2007.05.16_-_002_Broken_rail_weld_-_Flickr_-_faxepl (1).jpg,Defective,train
+0,train/Defective/2007.05.16_-_002_Broken_rail_weld_-_Flickr_-_faxepl.jpg,Defective,train
+0,train/Defective/6411009.jpg,Defective,train
+0,train/Defective/89e8b1a9ca8c41919021f8f4faaf37f0.jpg,Defective,train
+0,train/Defective/azer2003120026fbtr.jpg,Defective,train
+0,train/Defective/b17bf671d87cb6c9d6cfcd2aafc8e13a.jpg,Defective,train
+0,train/Defective/Broken_railroad_tracks_1.jpg,Defective,train
+0,train/Defective/cracked-rail.webp,Defective,train
+0,train/Defective/damagetotrackfromcollisionlfb.jpg,Defective,train
+0,train/Defective/dbb9223f7e652986a00c0dd8d8f1ccf8 (1).jpg,Defective,train
+0,train/Defective/dbb9223f7e652986a00c0dd8d8f1ccf8.jpg,Defective,train
+0,train/Defective/download (1).jpeg,Defective,train
+0,train/Defective/download (2).jpeg,Defective,train
+0,train/Defective/download (3).jpeg,Defective,train
+0,train/Defective/download (4).jpeg,Defective,train
+0,train/Defective/download (5).jpeg,Defective,train
+0,train/Defective/download (6).jpeg,Defective,train
+0,train/Defective/E116_8996 (1).jpg,Defective,train
+0,train/Defective/E116_8996.jpg,Defective,train
+0,train/Defective/es5n3o3y5cu11.jpg,Defective,train
+0,train/Defective/images (1).jpeg,Defective,train
+0,train/Defective/images (2).jpeg,Defective,train
+0,train/Defective/images (3).jpeg,Defective,train
+0,train/Defective/images (4).jpeg,Defective,train
+0,train/Defective/images (5).jpeg,Defective,train
+0,train/Defective/images (6).jpeg,Defective,train
+0,train/Defective/images (7).jpeg,Defective,train
+0,train/Defective/images (8).jpeg,Defective,train
+0,train/Defective/images.jpeg,Defective,train
+0,train/Defective/img.jpg,Defective,train
+0,train/Defective/IMG_20201114_100202.jpg,Defective,train
+0,train/Defective/IMG_20201114_100206.jpg,Defective,train
+0,train/Defective/IMG_20201114_100220.jpg,Defective,train
+0,train/Defective/IMG_20201114_100226.jpg,Defective,train
+0,train/Defective/IMG_20201114_100946.jpg,Defective,train
+0,train/Defective/IMG_20201114_100947.jpg,Defective,train
+0,train/Defective/IMG_20201114_100950.jpg,Defective,train
+0,train/Defective/IMG_20201114_101121.jpg,Defective,train
+0,train/Defective/IMG_20201114_101130.jpg,Defective,train
+0,train/Defective/IMG_20201114_101134.jpg,Defective,train
+0,train/Defective/IMG_20201114_101138.jpg,Defective,train
+0,train/Defective/IMG_20201114_101143.jpg,Defective,train
+0,train/Defective/IMG_20201114_101148.jpg,Defective,train
+0,train/Defective/IMG_20201114_101149.jpg,Defective,train
+0,train/Defective/IMG_20201114_101157.jpg,Defective,train
+0,train/Defective/IMG_20201114_101537.jpg,Defective,train
+0,train/Defective/IMG_20201114_101539.jpg,Defective,train
+0,train/Defective/IMG_20201114_101541.jpg,Defective,train
+0,train/Defective/IMG_20201114_101612.jpg,Defective,train
+0,train/Defective/IMG_20201114_101614.jpg,Defective,train
+0,train/Defective/IMG_20201114_101628.jpg,Defective,train
+0,train/Defective/IMG_20201114_101630.jpg,Defective,train
+0,train/Defective/IMG_20201114_101637.jpg,Defective,train
+0,train/Defective/IMG_20201114_101658.jpg,Defective,train
+0,train/Defective/IMG_20201114_101700.jpg,Defective,train
+0,train/Defective/IMG_20201114_101820.jpg,Defective,train
+0,train/Defective/IMG_20201114_101823.jpg,Defective,train
+0,train/Defective/IMG_20201114_101830.jpg,Defective,train
+0,train/Defective/IMG_20201114_101835.jpg,Defective,train
+0,train/Defective/IMG_20201114_101930.jpg,Defective,train
+0,train/Defective/IMG_20201114_101938.jpg,Defective,train
+0,train/Defective/IMG_20201114_101946.jpg,Defective,train
+0,train/Defective/IMG_20201114_101952.jpg,Defective,train
+0,train/Defective/IMG_20201114_102004.jpg,Defective,train
+0,train/Defective/IMG_20201114_102009.jpg,Defective,train
+0,train/Defective/IMG_20201114_102011.jpg,Defective,train
+0,train/Defective/IMG_20201114_102017.jpg,Defective,train
+0,train/Defective/IMG_20201114_102019.jpg,Defective,train
+0,train/Defective/IMG_20201114_102022.jpg,Defective,train
+0,train/Defective/IMG_20201114_102035.jpg,Defective,train
+0,train/Defective/IMG_20201114_102044.jpg,Defective,train
+0,train/Defective/IMG_20201114_102058.jpg,Defective,train
+0,train/Defective/IMG_20201114_102124.jpg,Defective,train
+0,train/Defective/IMG_20201114_102154.jpg,Defective,train
+0,train/Defective/IMG_20201114_102200.jpg,Defective,train
+0,train/Defective/IMG_20201114_102206.jpg,Defective,train
+0,train/Defective/IMG_20201114_102215.jpg,Defective,train
+0,train/Defective/IMG_20201114_102217.jpg,Defective,train
+0,train/Defective/IMG_20201114_102230.jpg,Defective,train
+0,train/Defective/IMG_20201114_102338.jpg,Defective,train
+0,train/Defective/IMG_20201114_102340.jpg,Defective,train
+0,train/Defective/IMG_20201114_102348.jpg,Defective,train
+0,train/Defective/IMG_20201114_102415.jpg,Defective,train
+0,train/Defective/IMG_20201114_102726.jpg,Defective,train
+0,train/Defective/IMG_20201114_102729.jpg,Defective,train
+0,train/Defective/IMG_20201114_102732.jpg,Defective,train
+0,train/Defective/IMG_20201114_102741.jpg,Defective,train
+0,train/Defective/IMG_20201114_102808.jpg,Defective,train
+0,train/Defective/IMG_20201114_102811.jpg,Defective,train
+0,train/Defective/IMG_20201114_102816.jpg,Defective,train
+0,train/Defective/IMG_20201114_102824.jpg,Defective,train
+0,train/Defective/IMG_20201114_102936.jpg,Defective,train
+0,train/Defective/IMG_20201114_102939.jpg,Defective,train
+0,train/Defective/IMG_20201114_103041.jpg,Defective,train
+0,train/Defective/IMG_20201114_103058.jpg,Defective,train
+0,train/Defective/IMG_20201114_103059.jpg,Defective,train
+0,train/Defective/IMG_20201114_103138.jpg,Defective,train
+0,train/Defective/IMG_20201114_103150.jpg,Defective,train
+0,train/Defective/IMG_20201211_112617.jpg,Defective,train
+0,train/Defective/IMG_20201211_112622.jpg,Defective,train
+0,train/Defective/IMG_20201211_112635.jpg,Defective,train
+0,train/Defective/IMG_20201211_112701.jpg,Defective,train
+0,train/Defective/IMG_20201211_112709.jpg,Defective,train
+0,train/Defective/IMG_20201211_112717.jpg,Defective,train
+0,train/Defective/IMG_20201211_112721.jpg,Defective,train
+0,train/Defective/IMG_20201211_112802.jpg,Defective,train
+0,train/Defective/IMG_20201211_112807.jpg,Defective,train
+0,train/Defective/IMG_20201211_112812.jpg,Defective,train
+0,train/Defective/IMG_20201211_112817.jpg,Defective,train
+0,train/Defective/IMG_20201211_112838.jpg,Defective,train
+0,train/Defective/IMG_20201211_112859.jpg,Defective,train
+0,train/Defective/IMG_20201211_112904.jpg,Defective,train
+0,train/Defective/IMG_20201211_112911.jpg,Defective,train
+0,train/Defective/IMG_20201211_112914.jpg,Defective,train
+0,train/Defective/IMG_20201211_112917.jpg,Defective,train
+0,train/Defective/IMG_20201211_112924.jpg,Defective,train
+0,train/Defective/IMG_20201211_112949.jpg,Defective,train
+0,train/Defective/IMG_20201211_112951.jpg,Defective,train
+0,train/Defective/IMG_20201211_113317.jpg,Defective,train
+0,train/Defective/IMG_20201211_113324.jpg,Defective,train
+0,train/Defective/IMG_20201211_113329.jpg,Defective,train
+0,train/Defective/IMG_20201211_113346.jpg,Defective,train
+0,train/Defective/IMG_20201211_113354.jpg,Defective,train
+0,train/Defective/IMG_20201211_113410.jpg,Defective,train
+0,train/Defective/IMG_20201211_113415.jpg,Defective,train
+0,train/Defective/IMG_20201211_113434.jpg,Defective,train
+0,train/Defective/IMG_20201211_113440.jpg,Defective,train
+0,train/Defective/IMG_20201211_113506.jpg,Defective,train
+0,train/Defective/IMG_20201211_113626.jpg,Defective,train
+0,train/Defective/IMG_20201211_113650.jpg,Defective,train
+0,train/Defective/IMG_20201211_113654.jpg,Defective,train
+0,train/Defective/IMG_20201211_113656.jpg,Defective,train
+0,train/Defective/IMG_20201211_114126.jpg,Defective,train
+0,train/Defective/IMG_20201211_121214.jpg,Defective,train
+0,train/Defective/JS76994453.jpg,Defective,train
+0,train/Defective/pic_1502805739.jpg,Defective,train
+0,train/Defective/ral55.jpg,Defective,train
+0,train/Defective/Schienenbruch.jpg,Defective,train
+0,train/Defective/SN_RDH_GTW_BrokenRail_2.jpg.gallery.jpg,Defective,train
+0,train/Defective/unnamed.jpg,Defective,train
+1,train/Non defective/IMG_20201114_100021.jpg,Non defective,train
+1,train/Non defective/IMG_20201114_100032.jpg,Non defective,train
+1,train/Non defective/IMG_20201114_100044.jpg,Non defective,train
+1,train/Non defective/IMG_20201114_100046.jpg,Non defective,train
+1,train/Non defective/IMG_20201114_100050.jpg,Non defective,train
+1,train/Non defective/IMG_20201114_100052.jpg,Non defective,train
+1,train/Non defective/IMG_20201114_100101.jpg,Non defective,train
+1,train/Non defective/IMG_20201114_100107.jpg,Non defective,train
+1,train/Non defective/IMG_20201114_100110.jpg,Non defective,train
+1,train/Non defective/IMG_20201114_100114.jpg,Non defective,train
+1,train/Non defective/IMG_20201114_100130.jpg,Non defective,train
+1,train/Non defective/IMG_20201114_100134.jpg,Non defective,train
+1,train/Non defective/IMG_20201114_100139.jpg,Non defective,train
+1,train/Non defective/IMG_20201114_100140.jpg,Non defective,train
+1,train/Non defective/IMG_20201114_100215.jpg,Non defective,train
+1,train/Non defective/IMG_20201114_100230.jpg,Non defective,train
+1,train/Non defective/IMG_20201114_100237.jpg,Non defective,train
+1,train/Non defective/IMG_20201114_100242.jpg,Non defective,train
+1,train/Non defective/IMG_20201114_100245.jpg,Non defective,train
+1,train/Non defective/IMG_20201114_100248.jpg,Non defective,train
+1,train/Non defective/IMG_20201114_100250.jpg,Non defective,train
+1,train/Non defective/IMG_20201114_100259.jpg,Non defective,train
+1,train/Non defective/IMG_20201114_100301.jpg,Non defective,train
+1,train/Non defective/IMG_20201114_100303.jpg,Non defective,train
+1,train/Non defective/IMG_20201114_100310.jpg,Non defective,train
+1,train/Non defective/IMG_20201114_100315.jpg,Non defective,train
+1,train/Non defective/IMG_20201114_100324.jpg,Non defective,train
+1,train/Non defective/IMG_20201114_100325.jpg,Non defective,train
+1,train/Non defective/IMG_20201114_100328.jpg,Non defective,train
+1,train/Non defective/IMG_20201114_100330.jpg,Non defective,train
+1,train/Non defective/IMG_20201114_100346.jpg,Non defective,train
+1,train/Non defective/IMG_20201114_100356.jpg,Non defective,train
+1,train/Non defective/IMG_20201114_100406.jpg,Non defective,train
+1,train/Non defective/IMG_20201114_100407.jpg,Non defective,train
+1,train/Non defective/IMG_20201114_100412.jpg,Non defective,train
+1,train/Non defective/IMG_20201114_100416.jpg,Non defective,train
+1,train/Non defective/IMG_20201114_100421.jpg,Non defective,train
+1,train/Non defective/IMG_20201114_100428.jpg,Non defective,train
+1,train/Non defective/IMG_20201114_100437.jpg,Non defective,train
+1,train/Non defective/IMG_20201114_100447.jpg,Non defective,train
+1,train/Non defective/IMG_20201114_100549.jpg,Non defective,train
+1,train/Non defective/IMG_20201114_100756.jpg,Non defective,train
+1,train/Non defective/IMG_20201114_100805.jpg,Non defective,train
+1,train/Non defective/IMG_20201114_100808.jpg,Non defective,train
+1,train/Non defective/IMG_20201114_100829.jpg,Non defective,train
+1,train/Non defective/IMG_20201114_100831.jpg,Non defective,train
+1,train/Non defective/IMG_20201114_100840.jpg,Non defective,train
+1,train/Non defective/IMG_20201114_100849.jpg,Non defective,train
+1,train/Non defective/IMG_20201114_100853.jpg,Non defective,train
+1,train/Non defective/IMG_20201114_100904.jpg,Non defective,train
+1,train/Non defective/IMG_20201114_100926.jpg,Non defective,train
+1,train/Non defective/IMG_20201114_101019.jpg,Non defective,train
+1,train/Non defective/IMG_20201114_101027.jpg,Non defective,train
+1,train/Non defective/IMG_20201114_101031.jpg,Non defective,train
+1,train/Non defective/IMG_20201114_101039.jpg,Non defective,train
+1,train/Non defective/IMG_20201114_101046.jpg,Non defective,train
+1,train/Non defective/IMG_20201114_101453.jpg,Non defective,train
+1,train/Non defective/IMG_20201114_101457.jpg,Non defective,train
+1,train/Non defective/IMG_20201114_101500.jpg,Non defective,train
+1,train/Non defective/IMG_20201114_101512.jpg,Non defective,train
+1,train/Non defective/IMG_20201114_101519.jpg,Non defective,train
+1,train/Non defective/IMG_20201114_101529.jpg,Non defective,train
+1,train/Non defective/IMG_20201114_101552.jpg,Non defective,train
+1,train/Non defective/IMG_20201114_101556.jpg,Non defective,train
+1,train/Non defective/IMG_20201114_101559.jpg,Non defective,train
+1,train/Non defective/IMG_20201114_101601.jpg,Non defective,train
+1,train/Non defective/IMG_20201114_101643.jpg,Non defective,train
+1,train/Non defective/IMG_20201114_101645.jpg,Non defective,train
+1,train/Non defective/IMG_20201114_101651.jpg,Non defective,train
+1,train/Non defective/IMG_20201114_101708.jpg,Non defective,train
+1,train/Non defective/IMG_20201114_101720.jpg,Non defective,train
+1,train/Non defective/IMG_20201114_101724.jpg,Non defective,train
+1,train/Non defective/IMG_20201114_101747.jpg,Non defective,train
+1,train/Non defective/IMG_20201114_101755.jpg,Non defective,train
+1,train/Non defective/IMG_20201114_101759.jpg,Non defective,train
+1,train/Non defective/IMG_20201114_101801.jpg,Non defective,train
+1,train/Non defective/IMG_20201114_101807.jpg,Non defective,train
+1,train/Non defective/IMG_20201114_101814.jpg,Non defective,train
+1,train/Non defective/IMG_20201114_101842.jpg,Non defective,train
+1,train/Non defective/IMG_20201114_101844.jpg,Non defective,train
+1,train/Non defective/IMG_20201114_101847.jpg,Non defective,train
+1,train/Non defective/IMG_20201114_101857.jpg,Non defective,train
+1,train/Non defective/IMG_20201114_101859.jpg,Non defective,train
+1,train/Non defective/IMG_20201114_101909.jpg,Non defective,train
+1,train/Non defective/IMG_20201114_101926.jpg,Non defective,train
+1,train/Non defective/IMG_20201114_102051.jpg,Non defective,train
+1,train/Non defective/IMG_20201114_102110.jpg,Non defective,train
+1,train/Non defective/IMG_20201114_102114.jpg,Non defective,train
+1,train/Non defective/IMG_20201114_102117.jpg,Non defective,train
+1,train/Non defective/IMG_20201114_102258.jpg,Non defective,train
+1,train/Non defective/IMG_20201114_102300.jpg,Non defective,train
+1,train/Non defective/IMG_20201114_102303.jpg,Non defective,train
+1,train/Non defective/IMG_20201114_102309.jpg,Non defective,train
+1,train/Non defective/IMG_20201114_102311.jpg,Non defective,train
+1,train/Non defective/IMG_20201114_102319.jpg,Non defective,train
+1,train/Non defective/IMG_20201114_102321.jpg,Non defective,train
+1,train/Non defective/IMG_20201114_102353.jpg,Non defective,train
+1,train/Non defective/IMG_20201114_102404.jpg,Non defective,train
+1,train/Non defective/IMG_20201114_102410.jpg,Non defective,train
+1,train/Non defective/IMG_20201114_102429.jpg,Non defective,train
+1,train/Non defective/IMG_20201114_102441.jpg,Non defective,train
+1,train/Non defective/IMG_20201114_102443.jpg,Non defective,train
+1,train/Non defective/IMG_20201114_102447.jpg,Non defective,train
+1,train/Non defective/IMG_20201114_102450.jpg,Non defective,train
+1,train/Non defective/IMG_20201114_102455.jpg,Non defective,train
+1,train/Non defective/IMG_20201114_102458.jpg,Non defective,train
+1,train/Non defective/IMG_20201114_102506.jpg,Non defective,train
+1,train/Non defective/IMG_20201114_102509.jpg,Non defective,train
+1,train/Non defective/IMG_20201114_102511.jpg,Non defective,train
+1,train/Non defective/IMG_20201114_102542.jpg,Non defective,train
+1,train/Non defective/IMG_20201114_102545.jpg,Non defective,train
+1,train/Non defective/IMG_20201114_102555.jpg,Non defective,train
+1,train/Non defective/IMG_20201114_102558.jpg,Non defective,train
+1,train/Non defective/IMG_20201114_102602.jpg,Non defective,train
+1,train/Non defective/IMG_20201114_102615.jpg,Non defective,train
+1,train/Non defective/IMG_20201114_102623.jpg,Non defective,train
+1,train/Non defective/IMG_20201114_102631.jpg,Non defective,train
+1,train/Non defective/IMG_20201114_102637.jpg,Non defective,train
+1,train/Non defective/IMG_20201114_102641.jpg,Non defective,train
+1,train/Non defective/IMG_20201114_102646.jpg,Non defective,train
+1,train/Non defective/IMG_20201114_102649.jpg,Non defective,train
+1,train/Non defective/IMG_20201114_102701.jpg,Non defective,train
+1,train/Non defective/IMG_20201114_102703.jpg,Non defective,train
+1,train/Non defective/IMG_20201114_102712.jpg,Non defective,train
+1,train/Non defective/IMG_20201114_102714.jpg,Non defective,train
+1,train/Non defective/IMG_20201114_102744.jpg,Non defective,train
+1,train/Non defective/IMG_20201114_102757.jpg,Non defective,train
+1,train/Non defective/IMG_20201114_102759.jpg,Non defective,train
+1,train/Non defective/IMG_20201114_102822.jpg,Non defective,train
+1,train/Non defective/IMG_20201114_102836.jpg,Non defective,train
+1,train/Non defective/IMG_20201114_102839.jpg,Non defective,train
+1,train/Non defective/IMG_20201114_102847.jpg,Non defective,train
+1,train/Non defective/IMG_20201114_102850.jpg,Non defective,train
+1,train/Non defective/IMG_20201114_102854.jpg,Non defective,train
+1,train/Non defective/IMG_20201114_102902.jpg,Non defective,train
+1,train/Non defective/IMG_20201114_102912.jpg,Non defective,train
+1,train/Non defective/IMG_20201114_102922.jpg,Non defective,train
+1,train/Non defective/IMG_20201114_102948.jpg,Non defective,train
+1,train/Non defective/IMG_20201114_103004.jpg,Non defective,train
+1,train/Non defective/IMG_20201114_103008.jpg,Non defective,train
+1,train/Non defective/IMG_20201114_103009.jpg,Non defective,train
+1,train/Non defective/IMG_20201114_103020.jpg,Non defective,train
+1,train/Non defective/IMG_20201114_103022.jpg,Non defective,train
+1,train/Non defective/IMG_20201114_103048.jpg,Non defective,train
+1,train/Non defective/IMG_20201114_103055.jpg,Non defective,train
+1,train/Non defective/IMG_20201114_103114.jpg,Non defective,train
+1,train/Non defective/IMG_20201114_103142.jpg,Non defective,train
+1,train/Non defective/IMG_20201114_103317.jpg,Non defective,train
+1,train/Non defective/IMG_20201114_103321.jpg,Non defective,train
+1,train/Non defective/IMG_20201114_103326.jpg,Non defective,train
+0,test/Defective/IMG_20201114_100159.jpg,Defective,test
+0,test/Defective/IMG_20201114_100209.jpg,Defective,test
+0,test/Defective/IMG_20201114_101124.jpg,Defective,test
+0,test/Defective/IMG_20201114_101200.jpg,Defective,test
+0,test/Defective/IMG_20201114_102203.jpg,Defective,test
+0,test/Defective/IMG_20201114_102222.jpg,Defective,test
+0,test/Defective/IMG_20201114_102819.jpg,Defective,test
+0,test/Defective/IMG_20201114_103110.jpg,Defective,test
+0,test/Defective/IMG_20201211_121712.jpg,Defective,test
+0,test/Defective/IMG_20201211_121712_1.jpg,Defective,test
+0,test/Defective/IMG_20201211_121713.jpg,Defective,test
+1,test/Non defective/IMG_20201114_100023.jpg,Non defective,test
+1,test/Non defective/IMG_20201114_100344.jpg,Non defective,test
+1,test/Non defective/IMG_20201114_100358.jpg,Non defective,test
+1,test/Non defective/IMG_20201114_101633.jpg,Non defective,test
+1,test/Non defective/IMG_20201114_101756.jpg,Non defective,test
+1,test/Non defective/IMG_20201114_101907.jpg,Non defective,test
+1,test/Non defective/IMG_20201114_102253.jpg,Non defective,test
+1,test/Non defective/IMG_20201114_102431.jpg,Non defective,test
+1,test/Non defective/IMG_20201114_102710.jpg,Non defective,test
+1,test/Non defective/IMG_20201114_102909.jpg,Non defective,test
+1,test/Non defective/IMG_20201114_102945.jpg,Non defective,test
+0,valid/Defective/IMG_20201114_102122.jpg,Defective,valid
+0,valid/Defective/IMG_20201114_102159.jpg,Defective,valid
+0,valid/Defective/IMG_20201114_102211.jpg,Defective,valid
+0,valid/Defective/IMG_20201114_102334.jpg,Defective,valid
+0,valid/Defective/IMG_20201114_102344.jpg,Defective,valid
+0,valid/Defective/IMG_20201114_102417.jpg,Defective,valid
+0,valid/Defective/IMG_20201114_102736.jpg,Defective,valid
+0,valid/Defective/IMG_20201114_102818.jpg,Defective,valid
+0,valid/Defective/IMG_20201114_102932.jpg,Defective,valid
+0,valid/Defective/IMG_20201114_102942.jpg,Defective,valid
+0,valid/Defective/IMG_20201114_103106.jpg,Defective,valid
+0,valid/Defective/IMG_20201211_121218.jpg,Defective,valid
+0,valid/Defective/IMG_20201211_121249.jpg,Defective,valid
+0,valid/Defective/IMG_20201211_121324.jpg,Defective,valid
+0,valid/Defective/IMG_20201211_121327.jpg,Defective,valid
+0,valid/Defective/IMG_20201211_121328.jpg,Defective,valid
+0,valid/Defective/IMG_20201211_121329.jpg,Defective,valid
+0,valid/Defective/IMG_20201211_121346.jpg,Defective,valid
+0,valid/Defective/IMG_20201211_121349.jpg,Defective,valid
+0,valid/Defective/IMG_20201211_121358.jpg,Defective,valid
+0,valid/Defective/IMG_20201211_121358_1.jpg,Defective,valid
+0,valid/Defective/IMG_20201211_121524.jpg,Defective,valid
+0,valid/Defective/IMG_20201211_121528.jpg,Defective,valid
+0,valid/Defective/IMG_20201211_121538.jpg,Defective,valid
+0,valid/Defective/IMG_20201211_121540.jpg,Defective,valid
+0,valid/Defective/IMG_20201211_121541.jpg,Defective,valid
+0,valid/Defective/IMG_20201211_121542.jpg,Defective,valid
+0,valid/Defective/IMG_20201211_121655.jpg,Defective,valid
+0,valid/Defective/IMG_20201211_121657.jpg,Defective,valid
+0,valid/Defective/IMG_20201211_121703.jpg,Defective,valid
+0,valid/Defective/IMG_20201211_121709.jpg,Defective,valid
+1,valid/Non defective/IMG_20201114_100431.jpg,Non defective,valid
+1,valid/Non defective/IMG_20201114_100450.jpg,Non defective,valid
+1,valid/Non defective/IMG_20201114_100452.jpg,Non defective,valid
+1,valid/Non defective/IMG_20201114_100546.jpg,Non defective,valid
+1,valid/Non defective/IMG_20201114_100552.jpg,Non defective,valid
+1,valid/Non defective/IMG_20201114_100758.jpg,Non defective,valid
+1,valid/Non defective/IMG_20201114_100806.jpg,Non defective,valid
+1,valid/Non defective/IMG_20201114_100844.jpg,Non defective,valid
+1,valid/Non defective/IMG_20201114_100859.jpg,Non defective,valid
+1,valid/Non defective/IMG_20201114_100901.jpg,Non defective,valid
+1,valid/Non defective/IMG_20201114_100917.jpg,Non defective,valid
+1,valid/Non defective/IMG_20201114_100923.jpg,Non defective,valid
+1,valid/Non defective/IMG_20201114_100924.jpg,Non defective,valid
+1,valid/Non defective/IMG_20201114_100930.jpg,Non defective,valid
+1,valid/Non defective/IMG_20201114_101021.jpg,Non defective,valid
+1,valid/Non defective/IMG_20201114_101035.jpg,Non defective,valid
+1,valid/Non defective/IMG_20201114_101509.jpg,Non defective,valid
+1,valid/Non defective/IMG_20201114_101522.jpg,Non defective,valid
+1,valid/Non defective/IMG_20201114_101555.jpg,Non defective,valid
+1,valid/Non defective/IMG_20201114_101603.jpg,Non defective,valid
+1,valid/Non defective/IMG_20201114_101617.jpg,Non defective,valid
+1,valid/Non defective/IMG_20201114_101647.jpg,Non defective,valid
+1,valid/Non defective/IMG_20201114_101712.jpg,Non defective,valid
+1,valid/Non defective/IMG_20201114_101749.jpg,Non defective,valid
+1,valid/Non defective/IMG_20201114_101805.jpg,Non defective,valid
+1,valid/Non defective/IMG_20201114_101817.jpg,Non defective,valid
+1,valid/Non defective/IMG_20201114_101851.jpg,Non defective,valid
+1,valid/Non defective/IMG_20201114_101914.jpg,Non defective,valid
+1,valid/Non defective/IMG_20201114_102102.jpg,Non defective,valid
+1,valid/Non defective/IMG_20201114_102249.jpg,Non defective,valid
+1,valid/Non defective/IMG_20201114_102306.jpg,Non defective,valid
